@@ -22,7 +22,7 @@ Feel free to explore my repositories and code snippets to get an idea of my codi
 ## Badges
 
 <a href="https://www.credly.com/badges/bbb672d6-6c77-4f2b-af52-26360eb7284c" target="_blank"><img width="150" src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/></a>
-<a href="https://www.credly.com/badges/73469f90-76ff-4840-ae18-4d5495001f4c" target="_blank"><img width="150" src="https://images.credly.com/size/340x340/images/a5b4a85e-9d3f-4bdf-b2b8-7d38f3f4c5b2/image.png"/></a>
+<a href="https://www.credly.com/badges/73469f90-76ff-4840-ae18-4d5495001f4c" target="_blank"><img width="150" src="https://images.credly.com/size/340x340/images/2577cdcb-1979-408c-b3d6-adb050ac7c04/Coursera_20Ethical_20Hacking_20with_20Kali_20Linux.png"/></a>
 
 ## Contact Me
 
